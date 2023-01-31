@@ -1,0 +1,40 @@
+<html>
+    <head>
+        <title> KALASH-G HOME DESIGN</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM31on1gyExkl0=" crossorigin="anonymous" />
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="banner">
+           <div class="navbar">
+            <img src="hos.png" class="logo">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Bedroom</a></li>
+                <li><a href="#">Dining</a></li>
+                <li><a href="#">Kitchen</a></li>
+                <li><a href="#">Backyard</a></li>
+            </ul>
+           </div>
+
+           <div class="content">
+            <h1>DESIGN YOUR HOUSE</h1>
+            <p>★★ A Place To Stay ★★<br>Visualize Your Dream Home Here With All The Functions</p>
+
+            <div>
+                <button type="button"><span></span>WATCH MORE</button>
+                <button type="button"><span></span> NEXT--></button>
+            </div>
+            <div class="centerdiv">
+                <a href="">
+                    <i class="fa-brands fa-instagram"></i>
+
+                </a>
+
+            </div>
+           </div>
+
+        </div>
+        
+    </body>
+</html>
