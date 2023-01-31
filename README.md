@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kickchazer007&label=Profile%20views&color=0e75b6&style=flat" alt="kickchazer007" /> </p>
 
-- 🔭 I’m currently working on **Gamerz Saga**
+- 🔭 I’m currently Learning **Coding at RTC**
 
 - 🌱 I’m currently learning **Fullstack development**
 
